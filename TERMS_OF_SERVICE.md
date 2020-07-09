@@ -1,26 +1,22 @@
-**Last updated: January 11, 2019**
+**Last updated: July 9, 2020**
 
 These Terms of Service (https://aciety.com/tos or
 https://aciety.com/terms-of-service) apply to:
 
 UAB “Aciety“, company registration number 302626251 having its registered address at Studentų g. 67-413, Kaunas, Lithuania (henceforth - Aciety); and
 
-Legal entity represented by its Employee, who registered in Aciety System
-and/or signed [Aciety Cooperation Agreement](https://github.com/Aciety/contents/raw/master/docs/aciety_tap_cooperation_agreement_2019_january.docx)
-as a User (henceforth - User); or anyone else given permission to use Aciety
-System with certain restrictions as offered by Aciety’s representatives in any
-offline/online promotional material;
+Legal entity represented by its Employee, who registered in Aciety System and/or signed [Aciety Cooperation Agreement](https://github.com/Aciety/contents/raw/master/docs/aciety_tap_cooperation_agreement_2020_june.docx)
+as a User (henceforth - User); or anyone else given permission to use Aciety System with certain restrictions as offered by Aciety’s representatives in any offline/online promotional material;
 
 Together called Parties and each separately – a Party.
 
 Because:
-* Aciety pre-screens software service companies to find the ones that
-consistently deliver quality results to their clients;
-* Aciety has created and is in control of the Aciety System, that is used to list and search for top software service and product companies;
-* Aciety helps clients to find the most suitable software development or ready-made product partners for their particular (usually high scale, long-term) need;
-* Aciety facilitates an exchange of client requests that users cannot service
-to the ones that they can;
-* And Aciety’s goal is commercial success for all of its Users;
+* Aciety pre-screens software service & product companies to find the ones that deliver quality results to their clients;
+* Aciety has created and is in control of the Aciety System to list and search for top software service and product companies;
+* Aciety helps Clients to find the best software development or ready-made product partner for their (usually high-scale) need; 
+* Aciety facilitates an exchange of Client Requests that Users cannot service to the ones that they can; 
+* And Aciety’s goal is commercial success for all of its Users; 
+
 
 Parties who enter Aciety System agree to all Terms of Service (henceforth –
 Agreement) mentioned below:
@@ -129,7 +125,7 @@ Agreement) mentioned below:
        [Annex 1](#aciety-cooperation-agreement-annex-no-1),
        [Annex 2](#aciety-cooperation-agreement-annex-no-2), or
        [Annex 3](#aciety-cooperation-agreement-annex-no-3)
-       both an integral
+       all an integral
        part to this Agreement. In any case where terms in this Agreement are
        contradicted by the terms in the Annex, Annex supersedes the Agreement.
     1. New Request - a request to create or customize a product, provide
@@ -149,7 +145,7 @@ Agreement) mentioned below:
     1. Referral Compensation – fee paid or service done by Aciety to Referral
        in exchange for the Lead as described
        in [Annex 1](#aciety-cooperation-agreement-annex-no-1).
-    1. Client Payment – amount of money paid by Client to Contractor for an
+    1. Client Payment – amount of money value paid by Client to Contractor for an
        invoice from Contractor in reference to their Work Agreement.
 1. ### Aciety System Services and Terms of Use
     1. Aciety System services consist of:
@@ -628,29 +624,22 @@ the Agreement.
     This Annex applies to all Users, who have received above zero value Pledge
     Allowance figure from Aciety in their Aciety Cooperation Agreements and who
     have a Confirmed Pledge.
-    This Annex serves as basis for Full Pledge Agreement and Pledger understands
-    this Annex will be updated, new version of TAP released and they will
-    receive the reward only by fulfilling the conditions of the Full Pledge
-    Agreement. Aciety agrees that if Pledger fulfills the conditions of Full
-    Pledge Agreement, they will receive the equal amount of the new version of
-    TAP to their Pledge Reward.
+    User (Pledger) agrees to accept defined amount of payments in TAP coupon (https://aciety.com/tap) from Aciety, distributors and other stakeholders for their Pledged IP.
 
     #### Definitions:
-      1. **TAP** – Coupon Token of Aciety Platform, 1 unit of which represents
+      1. **TAP** – Coupon of Aciety Platform, 1 unit of which represents
          1/10,000,000 of Total Pledged Value in Aciety.
       1. **XTAP** - exchange rate of TAP to EUR when buying Pledged IP for TAP:
          1 TAP = Total Pledged Value / 10,000,000.
-      1. **Pledged IP** -  All Intellectual Property listed in Aciety
-         Marketplace by the Pledger as part of their Pledge.
-      1. **Pledge** - Minimum value in EUR of Pledged IP that can be bought
-         from Pledger using TAP at XTAP rate.
+      1. **Pledged IP** - (a) licensed Intellectual Property; (b) subscription-based cloud software; (c) standardized services listed in Aciety Marketplace by the Pledger that can be paid in TAP. 
+      1. **Pledge** - How much stakeholders can buy of Pledged IP for TAP coupon at XTAP rate before the Pledge expires, in the event Pledger would like to terminate the Pledge. 
       1. **Pledger** – User, which has received above zero Pledge Allowance
          figure from Aciety and has signed above zero Pledge value in any way
          specified in this Annex.
       1. **Pledge Allowance** – Maximum Pledge value as determined by Aciety
          for a particular User.
       1. **Confirmed Pledge** – Pledge value signed by Pledger in their Aciety
-         Cooperation Agreement, or later add via Aciety System, or sent via email
+         Cooperation Agreement, or later added via Aciety System, or sent via email
          to pledges@aciety.com and confirmed by Aciety with corresponding Pledge
          Reward.
       1. **Total Pledged Value** - Sum value in EUR of all Pledges from
@@ -658,9 +647,6 @@ the Agreement.
       1. **Pledge Reward** - Reward in  TAP coupons for Pledger for their
          Confirmed Pledge = 1.25% * Pledge / XTAP.
       1. **Total Pledge Rewards** – Sum of TAP coupons in all Pledge Rewards.
-      1. **Full Pledge Agreement** - An updated version of this Annex, released
-         in reference to exceeding the first milestone of 10 million EUR in Total
-         Pledged Value.
       1. **Distributed TAP** – TAP distributed by Aciety to stakeholders
          according to conditions of Aciety Coupon Model.
       1. **Circulation** – Distributed TAP, not held in Aciety wallets, or held
@@ -676,36 +662,15 @@ the Agreement.
          long-term) need;
       1. Aciety has launched a coupon, which is meant to encourage code re-use,
          marketing and reward system for TAP stakeholders;
-      1. Aciety is releasing 10 million TAP coupons, each divisible to 100
-         million parts;
-      1. The coupon has clear buying power, based on Total Pledged Value that
-         pledgers make for their software;
+      1. Aciety is releasing 10 million TAP coupons, value of which is based on XTAP rate (https://aciety.com/tap);
       1. Pledging is designed to ensure TAP buys at least as much software
-         (or more)compared to the date it was distributed, ensuring future use for
-         the pledging producer and other stakeholders (ex. Service providers buying
-         products for clients);  
+         (or more) compared to the date it was distributed, ensuring favorable use by distributors, Pledgers and other stakeholders;  
       1. Coupons are distributed in a unique model (Aciety Coupon Model),
          creating unparalleled affiliate opportunities:
         1. First TAP is backed by software, only then it reaches the market;
-        1. TAP buying power grows with new pledges, substituting the need for
-           conventional affiliate commission;
-      1. TAP is released as ERC20 token (on Ethereum Network), but Aciety is
-         blockchain platform agnostic - eventually there will be a fixed number
-         (10 million) coupons, which may float in multiple blockchain platforms;
-         The vision of TAP is software trading protocol, which would standardize
-         access to global software and efficiently enable to exchange, buy, sell,
-         bundle, market and otherwise grow access to quality software, maximize its
-         use (and minimize code repetition), independently of any central
-         platform - Aciety becoming just one of the distributors, using the
-         protocol and all others accessing the information in the same terms as
-         specified by software producers (Pledgers);
-      1. The vision of TAP is software trading protocol, which would standardize
-         access to global software and efficiently enable to exchange, buy, sell,
-         bundle, market and otherwise grow access to quality software, maximize its
-         use (and minimize code repetition), independently of any central platform -
-         Aciety becoming just one of the distributors, using the protocol and all
-         others accessing the information in the same terms as specified by software
-         producers (Pledgers);
+        1. When paying for Pledged IP, TAP value is equal to XTAP rate and as with new Pledgers this value grows, it provides surplus commission to distributors, while maintaining low fees to Pledgers;
+      1. TAP effectively becomes accumulating discount coupon in a period while Aciety is on-boarding new Pledgers and universal software coupon - when on-boarding will reach maturity (at roughly 10,000 products);
+         
 
 1. ### General Conditions
     1. **Pledged Software** – Pledger confirms: a) they have full rights to
@@ -722,39 +687,11 @@ the Agreement.
        request such pricing to be used when using TAP for purchase; f) they will
        provide support to buyers of their Pledged IP as stated by the Pledger in
        Pledged IP licenses and/or their product page descriptions.  
-    1. **Pledged Value** – Pledger confirms: a) they understand Pledge refers to
-       sales in TAP and represents the minimum value in EUR in Pledged IP that
-       they would continue to sell in Aciety Marketplace if they would request
-       to terminate their Pledge (if Pledger returns their Pledge Reward in full
-       to Aciety, Pledge Minimum value would be used instead of Pledge value);
-       b) they understand that if they request to terminate the Pledge, 25%
-       (twenty five per-cent) on all earnings from sales of their Pledged IP in
-       TAP would go to Supplier Pool and Client Pool in equal splits and
-       remaining 75% (seventy five per-cent) would be distributed to the Pledger
-       only once Total Pledged Value grows higher than it is at the date the
-       Pledger requested to terminate their Pledge.
-    1. **Pledge Allowance** – If Pledge is equal to Pledge Allowance, then Pledge
-       applies to all Pledged IP. If Pledge is less than Pledge Allowance, then
-       Pledger specifies which products are part of their Pledged IP in Aciety
-       Marketplace. Pledge Allowance is no more than (lowest of the following
+    1. **Pledged Value** – Pledger confirms: a) they understand Pledge value defines how much Aciety, distributors and stakeholders can buy their product for TAP coupon before their Pledge expires, in the event Pledger would like to terminate the Pledge (if Pledger returns their Pledge Reward in full to Aciety, Pledge Minimum value would be used instead of Pledge value); b) if they request to terminate the Pledge, they will receive 75% on remaining sales proceeds, which would be distributed to the Pledger once Total Pledged Value grows higher than it is at the date the Pledger requested to terminate their Pledge.
+    1. **Pledge Allowance** – Pledge Allowance is no more than (lowest of the following
        values, but not less than 25,000 EUR): a) specified by Aciety on
        individual case basis; b) 10% (ten per-cent) of Total Pledged Value;
-    1. **Pledge Reward** – Pledges are done on reservation basis (i.e. Pledge
-       becomes active once there is certain Total Pledged Value reached). If any
-       of the reservations expire before the Pledger signs this Agreement, Aciety
-       may automatically put them in earlier position, granting Pledger higher TAP
-       reward and notifying them to their official e-mail address, without the
-       need to sign any additional updates to the Agreement.
-    1. **TAP Distribution** -  Aciety has issued and distributes 10 million coupons,
-       represented by its cryptographic token, called TAP. Multiple versions of
-       TAP may be released by Aciety and Aciety will exchange the older versions
-       of TAP to the newer ones to retain a total of up to 10 million units of
-       TAP in Circulation. Pledger confirms they will accept TAP at XTAP rate for
-       as long as Aciety distributes TAP as per Aciety Coupon Model. If Pledger
-       fulfills all conditions within this Agreement, they will receive Pledge
-       Reward. If Pledger does not fulfill any of the conditions in this
-       Agreement, they may receive a penalty up to the size of their Pledge
-       Reward, paid in TAP to Aciety.
+    1. **TAP Distribution** -  Aciety has issued and distributes 10 million TAP coupons. TAP may be released outside Aciety (in Aciety System and/or over blockchain for better authentication) and Aciety will exchange the older versions of TAP to the newer ones to retain a total of up to 10 million units of TAP in Circulation. Pledger confirms they will accept TAP at XTAP rate for as long as Aciety distributes TAP as per Aciety Coupon Model. If Pledger fulfills all conditions within this Agreement, they will receive Pledge Reward. If Pledger does not fulfill any of the conditions in this Agreement, they may receive a penalty up to the size of their Pledge Reward, paid in TAP to Aciety.
     1. **Other Conditions** – Aciety has made 1 million EUR pledge as a first
        pledger and will accept TAP for its products placed in Aciety Marketplace
        for as long as there will be any TAP in Circulation. Aciety maintains
@@ -763,16 +700,15 @@ the Agreement.
        with limitations as set by Pledgers.
     1. **Untimely Termination** – In case Pledger cannot fulfill their Pledge
        anymore for any reason on their own, they agree to pass access to Pledged
-       IP to Aciey with the right to sell such Pledged IP for the amount equal to
+       IP to Aciety with the right to sell such Pledged IP for the amount equal to
        Pledge with all sales proceedings going in equal splits to Supplier Pool
        and Client Pool.
 
 1. ### Aciety Coupon Model
 
     Aciety has designed a coupon distribution model, which ensures that TAP
-    is distributed primarily to its stakeholders and in a way that enables it
-    to become a product – a cryptographic coupon that buys software. In order
-    to maximize growth of Aciety Marketplace and TAP adoption, there is a
+    is distributed primarily to its stakeholders and in a way
+    to maximize growth of Aciety Marketplace and TAP adoption. There is a
     limited number of TAP (ten million coupons), distributed between five
     coupon pools, each with certain distribution conditions:
 
@@ -796,5 +732,4 @@ the Agreement.
     1. **Team Pool** -  2 million (20%) TAP coupons split between shareholders
        and employees of Aciety. Limitations: a) Locked for 1 year from the moment
        Total Pledged Value will surpass 10 million EUR; b) Unlocked afterwards
-       proportionally based on formula: 0.25 * ( TAP distributed to Pledgers +
-       partners + infrastructure producers + clients).
+       proportionally based on formula: 0.25 * (sum of TAP distributed from Supplier, Partner, Infrastructure and Client Pools).
