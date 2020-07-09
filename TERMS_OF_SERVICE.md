@@ -1,4 +1,4 @@
-**Last updated: July 3, 2020**
+**Last updated: July 9, 2020**
 
 These Terms of Service (https://aciety.com/tos or
 https://aciety.com/terms-of-service) apply to:
