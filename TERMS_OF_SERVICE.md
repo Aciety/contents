@@ -1,11 +1,11 @@
-**Last updated: April 2, 2021**
+**Last updated: April 6, 2021**
 
 These Terms of Service (https://aciety.com/tos or
 https://aciety.com/terms-of-service) apply to:
 
 UAB “Aciety“, company registration number 302626251 having its registered address at Šeštokų st. 39-11, Kaunas, Lithuania (henceforth - Aciety); and
 
-Legal entity represented by its Employee, who registered in Aciety System and/or signed [Aciety Cooperation Agreement](https://github.com/Aciety/contents/raw/master/docs/aciety_tap_cooperation_agreement_2020_june.docx)
+Legal entity represented by its Employee, who registered in Aciety System and/or signed [Aciety Cooperation Agreement](https://github.com/Aciety/contents/raw/master/docs/aciety_tap_cooperation_agreement_2021_april.docx)
 as a User (henceforth - User); or anyone else given permission to use Aciety System with certain restrictions as offered by Aciety’s representatives in any offline/online promotional material;
 
 Together called Parties and each separately – a Party.
