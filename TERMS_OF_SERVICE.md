@@ -3,7 +3,7 @@
 These Terms of Service (https://aciety.com/tos or
 https://aciety.com/terms-of-service) apply to:
 
-UAB “Aciety“, company registration number 302626251 having its registered address at Šeštokų st. 39-11, Kaunas, Lithuania (henceforth - Aciety); and
+UAB “Aciety“ (representing waynord cluster), company registration number 302626251 having its registered address at Šeštokų st. 39-11, Kaunas, Lithuania (henceforth - Aciety); and
 
 Legal entity represented by its Employee, who registered in Aciety System and/or signed [Aciety Cooperation Agreement](https://github.com/Aciety/contents/raw/master/docs/aciety_tap_cooperation_agreement_2021_april.docx)
 as a User (henceforth - User); or anyone else given permission to use Aciety System with certain restrictions as offered by Aciety’s representatives in any offline/online promotional material;
@@ -14,8 +14,9 @@ Because:
 * Aciety pre-screens software service & product companies to find the ones that deliver quality results to their clients;
 * Aciety has created and is in control of the Aciety System to list and search for top software service and product companies;
 * Aciety helps Clients to find the best software development or ready-made product partner for their (usually high-scale) needs; 
-* Aciety facilitates an exchange of Client Requests that Users cannot service to the ones that they can; 
-* And Aciety’s goal is commercial success for all of its Users; 
+* Aciety facilitates an exchange of Client Requests that Users cannot service to the ones that they can;
+* Aciety represents IT cluster waynord 
+* And Aciety’s (waynord's) goal is commercial success for all of its Users; 
 
 
 Parties who enter Aciety System agree to all Terms of Service (henceforth –
@@ -66,10 +67,10 @@ Agreement) mentioned below:
     provide Aciety System services to the User on the terms and conditions
     described in this Agreement, but only if User has also signed the written
     copy of Aciety Cooperation Agreement together with a representative of
-    Aciety.
+    Aciety (waynord).
 1. ### Definitions
     1. Aciety System – an online platform of services, data and products,
-       governed and owned by Aciety.
+       governed and owned by Aciety (coordinator of cluster waynord).
     1. Request – a request to create or customize a product, provide services
        and/or goods, which a User became aware of via Aciety System, or via
        Aciety representative.
@@ -147,7 +148,8 @@ Agreement) mentioned below:
        in [Annex 1](#aciety-cooperation-agreement-annex-no-1).
     1. Client Payment – amount of money value paid by Client to Contractor for an
        invoice from Contractor in reference to their Work Agreement.
-    1. Product - (a) licensed Intellectual Property; (b) subscription-based cloud software; (c) standardized services listed in Aciety Marketplace by the User. 
+    1. Product - (a) licensed Intellectual Property; (b) subscription-based cloud software; (c) standardized services listed in Aciety Marketplace by the User.
+    1. waynord cluster - cluster Aciety is acting on behalf of 
 1. ### Aciety System Services and Terms of Use
     1. Aciety System services consist of:
         1. User account, services profile, products and portfolio management;
@@ -155,6 +157,7 @@ Agreement) mentioned below:
            Information;
         1. Client Request forms;
         1. Providing statistics and ratings.
+        1. Waynord cluster network 
     1. Database description, Database terms of use are listed in
        [Annex 2](#aciety-cooperation-agreement-annex-no-2).
        [Annex 2](#aciety-cooperation-agreement-annex-no-2) can be changed by
@@ -170,10 +173,10 @@ Agreement) mentioned below:
        obligated to take adequate security measures to ensure that no
        unauthorized person will join the Aciety System.
 1. ### Request Distribution
-    1. Aciety uses its own judgment to determine the best candidates for
-       Clients. Usually Client will be offered more than one choice and Client
+    1. Aciety (waynord) uses its own judgment to determine the best candidates for
+       Clients. Usually Client will be offered more than one choice from waynord cluster and Client
        decides on who shall be a Contractor.
-        1. Aciety may offer a level of transparency in the choice process and may disclose Users their scoring, that would broadly reflect both the likelihood of receiving new Requests and methods in how to improve such scoring, as well as actions that should be avoided not to influence the scoring negatively. Among other things to improve their score (and hence likelihood in receiving Requests), Users may: a) Sign Aciety Lead Exchange Agreement; b) Purchase, or earn TAP to later use it to improve their score; and c) do any other actions listed in Aciety System to improve their score. 
+        1. Aciety (waynord) may offer a level of transparency in the choice process and may disclose Users their scoring, that would broadly reflect both the likelihood of receiving new Requests and methods in how to improve such scoring, as well as actions that should be avoided not to influence the scoring negatively. Among other things to improve their score (and hence likelihood in receiving Requests), Users may: a) Sign Aciety Lead Exchange Agreement; b) Purchase, or earn TAP to later use it to improve their score; and c) do any other actions listed in Aciety System to improve their score. 
     1. In case a User produces an offer for a particular Request, then it is
        considered that a negotiation process has begun between the User and the
        Client. Aciety does not guarantee that the Client will choose the User.
@@ -337,7 +340,7 @@ Agreement) mentioned below:
        other 3rd party.
 1. ### Intellectual Property Protection
     1. All exclusive rights to Aciety System, Database, any data formed by
-       Aciety or in Aciety System belongs to Aciety. During the period this
+       Aciety or in Aciety System belongs to Aciety (waynord). During the period this
        Agreement is in effect the User is awarded the non-exclusive right to
        use Aciety System, Database and data provided by Aciety only for direct
        commercial use. It is prohibited to use the data from Aciety System for
@@ -542,24 +545,24 @@ apply. They are listed in detail in this document.
 
 1. ### Commission
     1. The User who undertook to complete a Request from a Client and became a
-       Contractor will have to pay Commission to Aciety.
+       Contractor will have to pay Commission to Aciety (waynord).
     1. Commission is equal to 10% for each Client Payment with exception to the sale of Product(s), where it is set to 10-30% depending on the conditions specified below.
         1. If User is selling Product(s) to Client and have signed Pledge as specified in Annex 3 of this Agreement, the Commission is equal to 10% for each Client Payment. 
         1. If User does have a Pledge, then Commission is equal to 30% for the first 10,000 EUR in Client Payments for the Product(s) to the Client; 20% for Client Payments between 10,001 - 50,000 EUR; and 10% for all Client Payments above 50,000 EUR. Note. The ranges and Commission are counted for each Client separately.  
     1. Commission for Client Payments from an individual Client is limited to 3
        years counting from the date of the first Client Payment for the Work
        Agreement.
-    1. Contractor pays Commission to Aciety after each Client Payment within 15
+    1. Contractor pays Commission to Aciety (waynord) after each Client Payment within 15
        calendar days of receiving such payment, unless otherwise specified in
        separate payment schedule agreements between the Parties.
 1. ### Referral Compensation
-    1. Aciety compensates Referral for its Leads in two methods: by sending a
+    1. Aciety acting as waynord cluster coordinator compensates Referral for its Leads in two methods: by sending a
        Request of similar value to the Referral; or by paying half of the
        Commission for Work Agreement resulting from the Lead.
-    1. Referral qualifies for commission for the Lead if Aciety does not send a
+    1. Referral qualifies for commission for the Lead if Aciety (waynord) does not send a
        similar size Request to the Referral within 3 months the Lead was sent,
        or if requested by the Referral to compensate in a form of commission.
-       The commission is paid once every 3 months for as long as Aciety
+       The commission is paid once every 3 months for as long as Aciety (waynord)
        receives Commission from the Contractor executing Lead.
 
 ## Aciety Cooperation Agreement Annex No. 2
