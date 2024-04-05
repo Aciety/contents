@@ -1,11 +1,11 @@
-**Last updated: April 6, 2021**
+**Last updated: April 8, 2024**
 
 These Terms of Service (https://aciety.com/tos or
 https://aciety.com/terms-of-service) apply to:
 
 UAB “Aciety“, company registration number 302626251 having its registered address at Šeštokų st. 39-11, Kaunas, Lithuania (henceforth - Aciety); and
 
-Legal entity represented by its Employee, who registered in Aciety System and/or signed [Aciety Cooperation Agreement](https://github.com/Aciety/contents/raw/master/docs/aciety_tap_cooperation_agreement_2021_april.docx)
+Legal entity represented by individual(-s), who registered in Aciety System and/or signed [Aciety Cooperation Agreement](https://github.com/Aciety/contents/raw/master/docs/aciety_tap_cooperation_agreement_2024_april.docx)
 as a User (henceforth - User); or anyone else given permission to use Aciety System with certain restrictions as offered by Aciety’s representatives in any offline/online promotional material;
 
 Together called Parties and each separately – a Party.
@@ -68,7 +68,7 @@ Agreement) mentioned below:
     copy of Aciety Cooperation Agreement together with a representative of
     Aciety.
 1. ### Definitions
-    1. Aciety System – an online platform of services, data and products,
+    1. Aciety System – an [online platform](https:/aciety.com) of services, data and products,
        governed and owned by Aciety.
     1. Request – a request to create or customize a product, provide services
        and/or goods, which a User became aware of via Aciety System, or via
@@ -76,9 +76,8 @@ Agreement) mentioned below:
     1. Lead – a request to create or customize a product; provide services
        and/or goods, which Aciety became aware of from a User and the User has
        put an effort to introduce Aciety to an entity that created such request.
-    1. Employee – User’s employee (the form of employment may vary and can
-       include but not be limited to work agreements, contracts or any other
-       legal work relations) or a freelance specialist.
+    1. Lead Exchange Scoring (or LES) – a numerical valuation, representing a composite value of User participation in Aciety System. Positive values indicate that User is prioritized to receive a Request(-s), while negative ones indicate the opposite. Disregarding modifiers 1 LES represents 50,000 EUR in estimated Request value.       
+    1. Employee – an individual linked to a referred party by employment or service contract.
     1. Database – a part of Aciety System that is described in
        [Annex 2](#aciety-cooperation-agreement-annex-no-2).
     1. Information – the information described in
@@ -89,7 +88,7 @@ Agreement) mentioned below:
        intellectual nature that are protected by the current applicable
        mandatory laws.
     1. Client – an entity that has a Request. The client is considered to be
-    one (or the same) for all entities linked by both: a) any person who refers
+    one (or the same) for all entities linked by both: a) any individual who refers
     the User to other entity and is/was directly involved in Request; and b)
     any of the following features:
         1. One entity has a majority of stock or majority in voting power in
@@ -98,7 +97,7 @@ Agreement) mentioned below:
            administration staff of the other entity;
         1. One entity has representation rights of the majority of shareholders
            of the other entity.
-        1. Referring person is an Employee of the other (newly referred) entity.
+        1. Referring individual is an Employee of the other (newly referred) entity.
     1. Confidential Information (CI) – is considered any Aciety and/or User(s)
        information that is not publicly available and disclosing this
        information to any 3rd party would result in a decrease of value of this
@@ -118,26 +117,24 @@ Agreement) mentioned below:
        that the information listed in
        [Annex 2](#aciety-cooperation-agreement-annex-no-2) may be accessible to
        other Users.
-    1. CI Discloser - party that discloses CI.
-    1. CI Receiver - party that receives CI in any shape or form or becomes
+    1. CI Discloser – party that discloses CI.
+    1. CI Receiver – party that receives CI in any shape or form or becomes
        aware of such information through some other means.
     1. Annex – a document listed as
        [Annex 1](#aciety-cooperation-agreement-annex-no-1),
        [Annex 2](#aciety-cooperation-agreement-annex-no-2), or
        [Annex 3](#aciety-cooperation-agreement-annex-no-3)
-       all an integral
-       part to this Agreement. In any case where terms in this Agreement are
+       all an integral part to this Agreement. In any case where terms in this Agreement are
        contradicted by the terms in the Annex, Annex supersedes the Agreement.
-    1. New Request - a request to create or customize a product, provide
+    1. New Request – a request to create or customize a product, provide
        services and/or goods for a Client, which a Contractor became aware of
        from the Client.
-    1. Work Agreement – a contract between a User and a Client regarding
-       completing, or fulfilling the Request and/or New Request(s).
+    1. Request Size – highest of the values in EUR as defined by: a) Aciety to User at the time they receive Request survey invitation; or b) User as offer to the Request survey.
+    1. Work Agreement – a written or verbal contract between a User and a Client regarding
+       completing, or fulfilling the Request and/or New Request(s). 
     1. Contractor – a User, which has formed a Work Agreement in any form with
-       the Client.
-    1. Sub-contractor – User or any 3rd party that was chosen according to the
-       guides in this Agreement and its Annexes and helps the Contractor on
-       completing Work Agreement.
+       a Client.
+    1. Sub-contractor – any User (and their Employees) assisting a Contractor. 
     1. Commission – fee collected by Aciety from Contractor as described in
        [Annex 1](#aciety-cooperation-agreement-annex-no-1).
     1. Referral – User that sends a Lead to Aciety through Aciety System, or
@@ -147,39 +144,34 @@ Agreement) mentioned below:
        in [Annex 1](#aciety-cooperation-agreement-annex-no-1).
     1. Client Payment – amount of money value paid by Client to Contractor for an
        invoice from Contractor in reference to their Work Agreement.
-    1. Product - (a) licensed Intellectual Property; (b) subscription-based cloud software; (c) standardized services listed in Aciety Marketplace by the User. 
+    1. Product – (a) licensed Intellectual Property; (b) subscription-based cloud software; (c) standardized services listed in Aciety Marketplace by the User. 
+    1. Users – all entities that have registered accounts in Aciety System and/or signed Aciety Cooperation Agreement.
 1. ### Aciety System Services and Terms of Use
     1. Aciety System services consist of:
-        1. User account, services profile, products and portfolio management;
-        1. Search for Users based on their portfolio, profile and other
-           Information;
-        1. Client Request forms;
-        1. Providing statistics and ratings.
+        1. Publishing of Users information for promotional purposes;
+        1. Providing selected Users with Requests;
+        1. Enabling Users to exchange Leads; and
+        1. Premium (separately paid) services and/or functions that boost above and potentially other value creation to Users.
     1. Database description, Database terms of use are listed in
        [Annex 2](#aciety-cooperation-agreement-annex-no-2).
        [Annex 2](#aciety-cooperation-agreement-annex-no-2) can be changed by
        Aciety at any time in accordance to this Agreement.
-    1. To enable the User to use Aciety System, the Party will receive a
-       username and password to login into the system. This information must
-       not be disclosed to any party unless it is authorized by the User
-       Company and the party receiving this information has agreed to all of
+    1. Upon registration, User will receive username and password to login into the system. This information must
+       not be disclosed to any third party, unless the party receiving this information has agreed to all of
        the terms of this Agreement regarding information confidentiality. User
-       is obligated to provide Aciety with the authorized person name, surname,
+       is obligated to provide Aciety with the authorized individual's name, surname,
        position within company, contact information and inform as soon as
        possible if any changes have occurred to this information. User is
        obligated to take adequate security measures to ensure that no
-       unauthorized person will join the Aciety System.
+       unauthorized individuals will join the Aciety System.
 1. ### Request Distribution
-    1. Aciety uses its own judgment to determine the best candidates for
-       Clients. Usually Client will be offered more than one choice and Client
-       decides on who shall be a Contractor.
-        1. Aciety may offer a level of transparency in the choice process and may disclose Users their scoring, that would broadly reflect both the likelihood of receiving new Requests and methods in how to improve such scoring, as well as actions that should be avoided not to influence the scoring negatively. Among other things to improve their score (and hence likelihood in receiving Requests), Users may: a) Sign Aciety Lead Exchange Agreement; b) Purchase, or earn TAP to later use it to improve their score; and c) do any other actions listed in Aciety System to improve their score. 
+    1. Aciety representatives use Aciety System and collective know-how to determine the best matching Users for a particular Client. Users with positive LES are prioritized by Aciety System and Aciety representatives. Users with negative LES cannot apply to Requests sent by Aciety System (i.e. once they are determined as fitting to a particular Request), unless invited to such Request directly by Aciety representatives.
+        1. Aciety offers a level of transparency in the selection process and discloses Users their LES. In addition, Aciety discloses some of the methods in how to improve LES, as well as some of the actions that should be avoided not to influence the LES negatively. Among other things to improve their LES, Users may: a) Participate in [Aciety Lead Exchange](https://aciety.com/lead-exchange) ; b) Purchase LES credits; and c) make positive value creating actions, as detailed in Aciety System. 
     1. In case a User produces an offer for a particular Request, then it is
-       considered that a negotiation process has begun between the User and the
-       Client. Aciety does not guarantee that the Client will choose the User.
+       considered that they have proposed the terms for Work Agreement with a potential Client based on the Request information. Aciety does not guarantee that the Client will choose the User for completion of such Work Agreement, but if they do, User is responsible to keep Aciety up to date with Work Agreement information and any associated Client Payments as stated in this Agreement.
         1. Contractor has the right to find a Sub-contractor to help with the
            Request if it is allowed by the Work Agreement.
-        1. The User has to perform the work with quality and in a timely manner
+        1. The User assumes the responsibility to perform the work with quality and in a timely manner
            on every Work Agreement undertaken from Clients, other Users and
            Aciety.
 1. ### Provision of Data and Data Security
@@ -192,12 +184,11 @@ Agreement) mentioned below:
        Aciety retains the right to preserve information for statistical and
        analytical purposes, without personal information on Employees of the
        User.
-    1. During the Request execution a User is obligated to provide Aciety with
+    1. Contractors are obligated to provide Aciety with
        the information described in
        [Annex 2](#aciety-cooperation-agreement-annex-no-2), including, but not
        limited to: signing the Work Agreement, invoices sent to Client and
-       associated Client Payments, so that proper partner compensation schedule
-       can be signed and Commission can be paid out by User to Aciety.
+       associated Client Payments and any New Requests coming from the Client, so that precise Commission can be determined.
     1. When drafting the Work Agreement the User must make sure it incorporates
        the necessary clauses to allow the provision of data described in
        [Annex 2](#aciety-cooperation-agreement-annex-no-2). The newest edition
@@ -269,7 +260,7 @@ Agreement) mentioned below:
 1. ### Price and Payment Arrangements
     1. Contractors pay Commission under conditions described in
        [Annex 1](#aciety-cooperation-agreement-annex-no-1).
-    1. Referrals receive Referral Compensation under conditions described in
+    1. Referrals receive Referral compensation under conditions described in
        [Annex 1](#aciety-cooperation-agreement-annex-no-1).
     1. All pricing within Annexes does not include VAT. VAT rate applied
        depends on what is applicable by the current law and regulations at the
@@ -310,19 +301,17 @@ Agreement) mentioned below:
        and agrees that Aciety has no non-competition obligations.
     1. User knows and agrees that Aciety can in its own discretion in
        accordance to this Agreement offer a Client the potential Contractor
-       Aciety deems fit. In case the User is not considered for a Request, it
+       Aciety deems fit. In case a User is not considered for a Request, it
        will not have any access to information on the Request beyond what is
        specified in this Agreement.
     1. User understands that Aciety System promotes trust between its Users and
        that Aciety encourages simplified information and human resource
-       exchange for the purposes of sub-contracting. In the event a User
-       employs an Employee from its Sub-contractor within two years such
-       Employee was involved in fulfilling an associated Work Agreement, such
-       User is regarded as dishonoring trust practices of Aciety System. As
-       such action demotes the trust between Aciety and its users, User is
-       obligated to compensate Sub-contractor by 10,000 EUR (ten thousand Euro)
-       and Aciety by 2,500 EUR (two thousand five hundred Euro) for each such
-       action.
+       exchange for the purposes of sub-contracting. In the event a Contractor
+       poaches (by employing in any form, including employment and service contracts) an Employee directly, rather than from its Sub-contractor within two years such Employee was involved in fulfilling an associated Work Agreement, such
+       Contractor is regarded as dishonoring trust practices of Aciety System. As
+       such action demotes the trust between Aciety and its Users, Contractor is
+       obligated to compensate Sub-contractor by 20,000 EUR (twenty thousand Euro)
+       and Aciety by 5000 EUR (five thousand Euro) for each Employee poached.
 1. ### Publicity
     1. The User agrees that Aciety has the right to but is not obligated to
        use: the fact that this Agreement was signed; User company name; company
@@ -405,8 +394,7 @@ Agreement) mentioned below:
            legal, government bodies with the condition that the CI Discloser
            will be informed of such actions as soon as possible.
     1. CI Receiver upon violating an article regarding CI within this Agreement
-       will have to pay a fine to CI Discloser equal to 10% of the average
-       estimated value (per first year of execution) of the Request associated
+       will have to pay a fine to CI Discloser equal to 10% of the Request Size associated
        with that CI if there is a written demand from the CI Discloser, or 1000
        EUR at minimum. CI Receiver also has to compensate all direct damages
        caused by the violation if the fine does not cover them.
@@ -459,9 +447,7 @@ Agreement) mentioned below:
        in duration any Party can give a written notice and terminate the
        Agreement without incurring any penalties.
 1. ### Validity, Modification and Termination
-    1. This Agreement is considered valid from the moment it is signed by both
-       Parties and is in effect indefinitely until all obligations are
-       fulfilled.
+    1. This Agreement is considered valid from the moment the User creates and/or receives their Aciety System account and is in effect indefinitely until all obligations are fulfilled.
     1. If one of the Parties violates the essence of the Agreement, the other
        Party has a right to terminate the Agreement giving the notice 10
        calendar days prior to the termination, if the Party fails to restore
@@ -541,26 +527,18 @@ The User agrees that for the services listed in the Agreement certain fees
 apply. They are listed in detail in this document.
 
 1. ### Commission
-    1. The User who undertook to complete a Request from a Client and became a
-       Contractor will have to pay Commission to Aciety.
-    1. Commission is equal to 10% for each Client Payment with exception to the sale of Product(s), where it is set to 10-30% depending on the conditions specified below.
-        1. If User is selling Product(s) to Client and have signed Pledge as specified in Annex 3 of this Agreement, the Commission is equal to 10% for each Client Payment. 
-        1. If User does have a Pledge, then Commission is equal to 30% for the first 10,000 EUR in Client Payments for the Product(s) to the Client; 20% for Client Payments between 10,001 - 50,000 EUR; and 10% for all Client Payments above 50,000 EUR. Note. The ranges and Commission are counted for each Client separately.  
-    1. Commission for Client Payments from an individual Client is limited to 3
-       years counting from the date of the first Client Payment for the Work
-       Agreement.
-    1. Contractor pays Commission to Aciety after each Client Payment within 15
-       calendar days of receiving such payment, unless otherwise specified in
-       separate payment schedule agreements between the Parties.
+    1. The User which becomes Contractor, compensates Aciety for matchmaking service and pays Aciety 10% (ten per-cent) commission (further - Commission) from each Client Payment for as long as they receive Client payments, but no longer than for 3 years, counting from the first Client Payment date in reference.
+    1. In the event of the sale of Product(s), Commission is set to 10-30% depending on the conditions specified below:
+        1. If Contractor is selling Product(s) to Client and have signed Pledge as specified in Annex 3 of this Agreement, the Commission is equal to 10% for each Client Payment. 
+        1. If Contractor did not sign a Pledge, then Commission is equal to 30% for the first 10,000 EUR in Client Payments for the Product(s) to the Client; 20% for Client Payments between 10,001 - 50,000 EUR; and 10% for all Client Payments above 50,000 EUR. Note. The ranges and Commission are counted for each Client separately.  
+    1. Contractor is obliged to inform Aciety about receiving each Client Payment within 2 work days and pay Commission for it to Aciety within 15 work days Aciety issues an invoice for the Commission.
+    1. In the event Contractor does not provide details on most recent or next upcoming Client Payments by the end of each calendar month for the purposes of calculating accurate Commission, Parties agree Aciety service for the purposes of Commission calculation for the period is assumed provided in full and Commission is calculated automatically. Commission invoice to Contractor is issued automatically once every month for 3 (three) years, or until the missing Client Payment information is provided by the Contractor. Size of Commission is determined based on the highest value of the 3 (three) most recent Client Payments. If no relevant Client Payments information is available to Aciety for Commission calculation, then one sixth of the Request Size is used as Client Payment equivalent in order to determine Commission size. 
+        1. If (or once) the Contractor provides accurate Client Payment information for the purposes of Commission calculation for the period the Commission was calculated automatically: a) surplus paid is deducted from future Commission payments until outstanding balance evens out; or b) full unpaid value is issued as a separate Commission invoice if lesser value of Commission was determined automatically than based on relevant Client Payments information provided. 
+
 1. ### Referral Compensation
-    1. Aciety compensates Referral for its Leads in two methods: by sending a
-       Request of similar value to the Referral; or by paying half of the
-       Commission for Work Agreement resulting from the Lead.
-    1. Referral qualifies for commission for the Lead if Aciety does not send a
-       similar size Request to the Referral within 3 months the Lead was sent,
-       or if requested by the Referral to compensate in a form of commission.
-       The commission is paid once every 3 months for as long as Aciety
-       receives Commission from the Contractor executing Lead.
+    1. Referral receives LES for each qualifying Lead they send to Aciety.
+    1. Aciety compensates Referral by priotizing and sending them Requests as detailed in Agreement section Request Distribution. 
+    1. Referral may request money compensation if Aciety receives Commission for the Lead and Referral spent less LES than received for the Lead within 90 days of sending the Lead. Money compensation is equal to 50% of Commission received from the Lead by Aciety and is paid to Referral once every quarter for as long as Aciety receives this Commission, or until Referral spends more LES than they received for sending the Lead.
 
 ## Aciety Cooperation Agreement Annex No. 2
 
@@ -591,19 +569,15 @@ the Agreement.
         1. Position within company;
         1. Email;
         1. Mobile number;
-        1. Skype ID;
+        1. Social media handles;
         1. Company name;
         1. Company website URL;
         1. Company description;
         1. Work samples;
         1. Products and all information describing them;
-        1. Company pricing information, except for hourly rates;
-        1. Other information that can be entered or imported in User’s Account
+        1. Company pricing information;
+        1. Other information that can be entered or imported in [Company Profile](https://aciety.com/company-profile)
            pages by the User and not marked for Aciety admin use only.
-    1. User provides such information on themselves that can be accessed by
-       Aciety only:
-        1. Hourly rates (broad pricing range can be made public);
-        1. Non-disclosure agreement based portfolio items.
 1. ### Aciety Search Data
     1. With a goal to continuously improve its service quality Aciety tracks
        the search engine activity and register the events including, but not
